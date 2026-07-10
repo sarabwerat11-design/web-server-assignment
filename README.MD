@@ -1,6 +1,10 @@
 
 # Multi-Threaded Web Server
 
+## Students 
+- SARA BWERAT ID - 213853385 
+- YOSIF MWASI ID -  325044295
+
 This project implements a simple multi-threaded HTTP web server in Python.
 
 How to run:
